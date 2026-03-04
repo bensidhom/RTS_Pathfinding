@@ -1,0 +1,11 @@
+# Dump files
+*.dmp
+*.DMP
+
+
+
+# Build artifacts
+
+*.pch
+*.ipch
+

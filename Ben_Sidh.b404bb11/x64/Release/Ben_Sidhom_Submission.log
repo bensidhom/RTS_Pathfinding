@@ -1,0 +1,15 @@
+﻿   Qt/MSBuild: 3.4.1.0
+  Reading Qt configuration (C:/Qt/6.10.2/msvc2022_64/bin/qmake)
+   Qt: 6.10.2
+  moc mainwindow.h
+  battlematrix.cpp
+  main.cpp
+  mainwindow.cpp
+  model.cpp
+  shortestpath.cpp
+  moc_mainwindow.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1357 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Ben_Sidhom_Submission.vcxproj -> C:\Users\djeri\source\repos\Ben_Sidhom_Submission\x64\Release\Ben_Sidhom_Submission.exe
